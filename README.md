@@ -3,4 +3,4 @@
    本系统数据库采用MYSQL 11.1.3<br>
    java JDK版本为1.8<br>
    可以通过导入lib,eps,jar,eps_management.sql在命令行下运行<br>
-   也可以导入到eclipse下运行<br>
+   也可以导入到eclipse中进行运行测试<br>
