@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<accessrules>
+			<accessrule kind="accessible" pattern="**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/LI/学生选课系统/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="E:/LI/学生选课系统/lib/mysql-connector-java-5.1.8-bin.jar"/>
+	<classpathentry kind="lib" path="E:/LI/学生选课系统/lib/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Java/jre1.8.0_201/lib/ext/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/Java/jre1.8.0_201/lib/ext/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Java/jre1.8.0_201/lib/ext/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="D:/Java/jre1.8.0_201/lib/ext/jfreechart-1.0.19-swt.jar"/>
+<<<<<<< bec39dfa6595a603eb9d268a11024a58237deb40
+=======
+	<classpathentry kind="lib" path="lib/access-bridge-64.jar"/>
+	<classpathentry kind="lib" path="lib/cldrdata.jar"/>
+	<classpathentry kind="lib" path="lib/dns_sd.jar"/>
+	<classpathentry kind="lib" path="lib/dnsns.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/jaccess.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="lib/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jfxrt.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="lib/localedata.jar"/>
+	<classpathentry kind="lib" path="lib/meta-index"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.8-bin.jar"/>
+	<classpathentry kind="lib" path="lib/nashorn.jar"/>
+	<classpathentry kind="lib" path="lib/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="lib/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="lib/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/sunec.jar"/>
+	<classpathentry kind="lib" path="lib/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="lib/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="lib/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="lib/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="lib/zipfs.jar"/>
+>>>>>>> chart
+	<classpathentry kind="output" path="bin"/>
+</classpath>
